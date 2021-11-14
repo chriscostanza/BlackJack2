@@ -1,15 +1,6 @@
 import random
-from bj_classes import Player
-from bj_classes import Card
-from bj_classes import Deck
-from bj_funcs import player_name_input
-from bj_funcs import betting
-from bj_funcs import bankrupt_check
-from bj_funcs import bust_check
-from bj_funcs import display_table
-from bj_funcs import display_table_end
-
-
+from bj_classes import Player, Card, Deck
+from bj_funcs import player_name_input, betting, bankrupt_check, bust_check, display_table, display_table_end
 
 
 
